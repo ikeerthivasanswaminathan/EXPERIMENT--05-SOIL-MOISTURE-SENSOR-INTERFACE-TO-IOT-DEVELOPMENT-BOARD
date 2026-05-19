@@ -1,5 +1,11 @@
 # EXPERIMENT-05 SOIL MOISTURE SENSOR INTERFACE TO IOT DEVELOPMENT BOARD
 
+**NAME: KEERTHIVASAN S**
+
+**ROLL NO: 212223220046**
+
+**DEPARTMENT: B.Tech (IT)**
+
 ## Aim: 
 To Interface a Analog Input  (soil moisture sensor) to ARM IOT development board and write a  program to obtain  the data on the com port 
 
